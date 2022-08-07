@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin_min">8dp</dimen>
+    <dimen name="layout_margin_max">16dp</dimen>
+    <dimen name="toolbar_margin">10dp</dimen>
+    <dimen name="toolbar_corners">15dp</dimen>
+    <dimen name="toolbar_elevation">2dp</dimen>
+    <dimen name="card_view_corners">12dp</dimen>
+    <dimen name="card_view_elevation">8dp</dimen>
+    <dimen name="text_view_title_max">22sp</dimen>
+    <dimen name="text_view_title_min">18sp</dimen>
+    <dimen name="text_view_body_max">14sp</dimen>
+    <dimen name="text_view_body_min">10sp</dimen>
+    <dimen name="image_view_item_size">96dp</dimen>
+    <dimen name="image_view_border">1dp</dimen>
+    <dimen name="chip_size">40dp</dimen>
+</resources>
